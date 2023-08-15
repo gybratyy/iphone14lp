@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap");
+
+.headnav{
+    display:flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+.headnav-content{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    width: 62.5%;
+    padding-top: 30px;
+    padding-bottom:30px;
+    margin:0%;
+}
+
+.headnav h1{
+    color: #717171;
+    font-size: 24px;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin:0%;
+    padding: 0%;
+}
+
+.headnav-sections{
+    width: 33%; 
+    display:flex;
+    flex-direction:row ;
+    justify-content: space-between;
+    align-items: center;
+}
+.headnav-contacts{
+    display:flex;
+    flex-direction:row ;
+    justify-content: center;
+    width:33%;
+
+}
+.headnav-brand{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    width:34%;
+}

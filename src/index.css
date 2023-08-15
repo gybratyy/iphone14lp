@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+ 
+    overflow: visible;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
